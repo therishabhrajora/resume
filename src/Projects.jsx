@@ -36,8 +36,8 @@ function Projects() {
         <div className="">
           <div className="flex justify-between">
             <div>
-              <span className="font-mono italic mr-2 hover:underline text-blue-700"><a href="">Link</a></span><span className="text-lg font-serif font-semibold">
-                Srubs shopping website
+              <span className="font-mono italic mr-2 hover:underline text-blue-700"><a href="https://github.com/therishabhrajora/ramya">Link</a></span><span className="text-lg font-serif font-semibold">
+                RamYa Srubs shopping website
               </span>
               &nbsp;|&nbsp;
               <span className="italic font-mono">
