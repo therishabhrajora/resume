@@ -43,6 +43,7 @@ function Introduction() {
             </div>
           </div>
         </div>
+        <div className="m-4">I’m a full stack developer who enjoys building web apps from start to finish. I work with tools like React, Spring Boot, and MySQL. I’m comfortable creating APIs, handling user login systems, and deploying apps using Docker. I like solving problems, learning new things, and writing clean, easy-to-understand code that works well for users.</div>
       </div>
     </>
   );

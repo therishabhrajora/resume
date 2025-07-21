@@ -1,22 +1,22 @@
-import React from "react";
+
 
 function Experience() {
   return (
     <>
       <div>
-        <div className="font-serif font-semibold text-2xl border-b border-black">
+        <div className="font-serif font-semibold text-xl border-t border-b bg-gray-200 text-center border-black">
           Experience
         </div>
         <div className=" w-[100%] py-1">
           <div className="flex justify-between">
             <div>
-              <div className="text-lg font-serif font-semibold">Ducat India</div>
+              <div className="text-base font-serif font-semibold">Ducat India</div>
               <div className="italic font-mono">
                 Trainee as Java Full Stack Developer
               </div>
             </div>
             <div>
-              <div className="text-lg  font-Vollkorn  font-semibold">
+              <div className="text-base  font-Vollkorn  font-semibold">
                 <div className="text-right">April 2024 - Oct. 2024</div>
               </div>
               <div className="italic font-mono text-right">
@@ -29,8 +29,6 @@ function Experience() {
             <li> Managed and optimized databases using MySQL and MongoDB, ensuring efficient data storage and retrieval.</li>
             <li>Created RESTful APIs to facilitate communication between the front-end and back-end systems.</li>
             <li>Built responsive and user-friendly interfaces using HTML, CSS, JavaScript, and React.js.</li>
-            <li> Utilized Git for version control and collaborated with team members using GitHub.</li>
-            <li> Conducted unit testing using JUnit and integrated testing frameworks to ensure code quality and reliability.</li>
           </div>
         </div>
       </div>

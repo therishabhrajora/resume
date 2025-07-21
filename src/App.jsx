@@ -1,5 +1,5 @@
-import Activities from "./Activities";
 import "./App.css";
+import Certificates from "./Certificates";
 import Education from "./Education";
 import Experience from "./Experience";
 import Introduction from "./introduction";
@@ -17,7 +17,7 @@ function App() {
         <Experience />
         <Projects />
         <Skills />
-        {/* <Activities /> */}
+        <Certificates />
       </div>
     </>
   );
