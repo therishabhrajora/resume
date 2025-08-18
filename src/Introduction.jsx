@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
 
@@ -10,7 +10,7 @@ function Introduction() {
           rishabh rajora
         </div>
         <div className="text-center capitalize">
-          Hapur , Utter Pradesh 245101
+          Hapur , Uttar Pradesh 245101
         </div>
         <div className="flex items-center flex-col">
           <div className="flex gap-2">
@@ -27,9 +27,9 @@ function Introduction() {
               <FaLinkedin />
               <a
                 className="underline"
-                href="https://www.linkedin.com/in/rishabh-rajora-162215231/"
+                href="https://www.linkedin.com/in/therishabhrajora"
               >
-                linkedin.com/in/rishabh-rajora-162215231/
+                linkedin.com/in/therishabhrajora/
               </a>
             </div>
             <div className="flex items-center gap-1">

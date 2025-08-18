@@ -8,23 +8,23 @@ function Skills() {
           Technical Skills
         </div>
         <div className=" w-[100%] px-5 py-1 mb-4">
-          <div>
-            <b>Languages</b> : Java(core and advanced), JavaScript,Html5, CSS3,
+          <div className="capitalize">
+            <b>Languages</b> : Java(core and advanced), JavaScript, Html5, CSS3
           </div>
-          <div>
-            <b>Technologies/Frameworks:</b> Reactjs, Expressjs, Sevlet,
+          <div className="capitalize">
+            <b>Technologies/Frameworks:</b> Reactjs, Sevlet,
             Hibernate, SpringBoot, GitHub
           </div>
-          <div>
+          <div className="capitalize">
             <b>Developer Tools: </b> VS Code, IntelliJ IDEA, Eclipse, React
-            Developer Tools, Tailwind CSS IntelliSense, Postman,,Git &
+            Developer Tools, Tailwind CSS IntelliSense, Postman, Git &
             github,Docker and Docker Compose, Swagger, Build Tool (maven)
           </div>
-          <div>
+          <div className="capitalize">
             <b>Databases: </b>MySQL(JPA/JDBC), MySQL Workbench, MongoDB Compass,
             MongoDB Atlas,
           </div>
-          <div>
+          <div className="capitalize">
             <b>Deployment: </b>Netlify / Vercel(frontend),render(backend).
           </div>
         </div>

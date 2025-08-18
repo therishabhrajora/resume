@@ -6,8 +6,8 @@ function Certificates() {
       </div>
       <div className=" flex items-start flex-col  ">
         <div className="">
-          <span className="font-mono italic mr-2 hover:underline text-blue-700">
-            <a href="https://github.com/therishabhrajora/certificates">Link</a>
+          <span className="font-mono italic mr-2 hover:underline ml-2 font-bold underline text-lg text-blue-700">
+            <a href="https://drive.google.com/file/d/1vv83W-b3lAoqBX7pcYnpO0gL530ql9Vj/view?usp=sharing">Link</a>
           </span>
           <span className="text-base  font-bold">
             Java Full Stack Development:
@@ -19,8 +19,8 @@ function Certificates() {
           </span>
         </div>
         <div className="">
-          <span className="font-mono italic mr-2 hover:underline text-blue-700">
-            <a href="https://github.com/therishabhrajora/certificates">Link</a>
+          <span className="font-mono italic mr-2 hover:underline ml-2 font-bold underline text-lg text-blue-700">
+            <a href="https://drive.google.com/file/d/1bWRrFPJylYaJBwpt1pim9oSSorNaAUFd/view?usp=sharing">Link</a>
           </span>
           <span className="text-base font-bold">
             Introduction to python:
@@ -30,8 +30,8 @@ function Certificates() {
           </span>
         </div>
         <div className="">
-          <span className="font-mono italic mr-2 hover:underline text-blue-700">
-            <a href="https://github.com/therishabhrajora/certificates">Link</a>
+          <span className="font-mono italic mr-2 hover:underline ml-2 font-bold underline text-lg text-blue-700">
+            <a href="https://drive.google.com/file/d/1YSL-ieMALFK30sXtB3qkAa1rWHRNizTs/view?usp=sharing">Link</a>
           </span>
           <span className="text-base font-bold">
             Responsive Web Designing:

@@ -5,7 +5,7 @@ function Experience() {
     <>
       <div>
         <div className="font-serif font-semibold text-xl border-t border-b bg-gray-200 text-center border-black">
-          Experience
+          Training
         </div>
         <div className=" w-[100%] py-1">
           <div className="flex justify-between">

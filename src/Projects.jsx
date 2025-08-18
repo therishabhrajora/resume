@@ -4,8 +4,8 @@ function Projects() {
       <div className="font-serif font-semibold text-xl border-t border-b bg-gray-200 text-center border-black">
         Projects
       </div>
-      <div className=" w-[100%] py-1">
-        <div className="">
+      <div className=" w-[100%] space-y-5 py-4">
+        {/* <div className="">
           <div className="flex justify-between">
             <div>
               <span className="font-mono italic mr-2 hover:underline text-blue-700">
@@ -37,14 +37,11 @@ function Projects() {
               APIs.
             </li>
           </div>
-        </div>
+        </div> */}
 
         <div className="">
           <div className="flex justify-between">
-            <div>
-              <span className="font-mono italic mr-2 hover:underline text-blue-700">
-                <a href="https://github.com/therishabhrajora/ramya">Link</a>
-              </span>
+            <div className="space-x-5">
               <span className="text-base font-serif font-semibold">
                 RamYa Srubs shopping website
               </span>
@@ -52,6 +49,11 @@ function Projects() {
               <span className="italic font-mono">
                 java, Spring Boot, MySQL, reactjs
               </span>
+              <div className="text-lg font-mono italic mr-2 hover:underline font-bold underline text-blue-700">
+                <a href="https://ramyascrubs.netlify.app/" className="ml-5">
+                  Link
+                </a>
+              </div>
             </div>
             <div className="text-base  font-Vollkorn font-semibold">
               <div className="text-right">April 2025 - june 2025</div>
@@ -77,6 +79,49 @@ function Projects() {
               <b>Built robust backend APIs</b> for order placement, inventory
               updates, and cart functionality; connected to a MySQL database for
               persistent storage and transactional integrity.
+            </li>
+          </div>
+        </div>
+        <div className="">
+          <div className="flex justify-between">
+            <div className="space-x-5">
+              <span className="text-base font-serif font-semibold">
+                Charcha: Chat Application
+              </span>
+              &nbsp;|&nbsp;
+              <span className="italic font-mono">
+                java, Spring Boot, Mongodb, reactjs, WebSockets
+              </span>
+              <div className="text-lg font-mono italic mr-2 hover:underline font-bold underline text-blue-700">
+                <a href="https://charchabot.onrender.com" className="ml-5">
+                  Link
+                </a>
+              </div>
+            </div>
+            <div className="text-base  font-Vollkorn font-semibold">
+              <div className="text-right">Aug 2025 ( under development )</div>
+            </div>
+          </div>
+          <div className="px-10 py-2">
+            <li>
+              Supports <b>real-time one-to-one</b> and group messaging using
+              <b>WebSockets.</b>
+            </li>
+            <li>Maintains persistent <b>chat history and user data</b> in MongoDB.</li>
+            <li>
+              Offers typing indicators, live updates, and <b> responsive UI </b>for
+              smooth user experience.
+            </li>
+            <li>
+              Optimized with scalable WebSocket handling to <b> support multiple
+              concurrent users.</b>
+            </li>
+            <li>
+              Provides <b>secure authentication </b> & authorization using JWT and
+             <b> Spring Security.</b>
+            </li>
+            <li>
+              Containerized with <b> Docker for easy deployment </b> and portability.
             </li>
           </div>
         </div>
