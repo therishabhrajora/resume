@@ -1,6 +1,7 @@
 
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
+import { FaUserLarge } from "react-icons/fa6";
 
 function Introduction() {
   return (
@@ -39,6 +40,15 @@ function Introduction() {
                 href="https://github.com/therishabhrajora"
               >
                 /therishabhrajora
+              </a>
+            </div>
+            <div className="flex items-center gap-1">
+              <FaUserLarge />
+              <a
+                className="underline"
+                href="https://rishabhrajoraportfolio.netlify.app/"
+              >
+                /rishabhportfolio
               </a>
             </div>
           </div>
